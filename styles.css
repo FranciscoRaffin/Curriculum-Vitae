@@ -38,7 +38,7 @@ header h1 {
 
 header h2 {
     font-size: 1.2em;
-    color: #666;
+    color: #ffffff;
 }
 
 .contact-info {
@@ -81,4 +81,44 @@ ul li {
 .job h4 {
     margin-top: 10px;
     margin-bottom: 5px;
+}
+
+.icon{
+    height: 25px;
+    width: 25px;
+}
+
+.contact-element{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.contact-container {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+#pie{
+    display: flex;
+    justify-content: end;
+}
+
+
+#static-info-container{
+    display: flex;
+    
+}
+
+#unbicacion{
+    display: flex;
+    
+}
+
+#phone{
+    display: flex;
+    margin-left: 70%;
 }
