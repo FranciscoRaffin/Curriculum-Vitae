@@ -161,7 +161,7 @@ ul li {
     background: #0077b5;
   }
   .email .BG {
-    background: #d04545; /* Color de fondo del botón de correo electrónico */
+    background: #f6eeee64; /* Color de fondo del botón de correo electrónico */
   }
 
   .Btn:hover .BG {
